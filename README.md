@@ -43,4 +43,4 @@ SELECT COUNT(*) FROM city
 WHERE city ILIKE '%R';
 
 
-iYİ ÇALIŞMALAR.
+İYİ ÇALIŞMALAR.
